@@ -4,6 +4,12 @@
     ```reg
     Windows Registry Editor Version 5.00
 
+    [HKEY_CLASSES_ROOT\.code-workspace]
+    @="code-workspace_auto_file"
+    ```
+    ```reg
+    Windows Registry Editor Version 5.00
+
     [HKEY_CLASSES_ROOT\code-workspace_auto_file]
 
     [HKEY_CLASSES_ROOT\code-workspace_auto_file\DefaultIcon]
