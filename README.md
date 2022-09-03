@@ -1,0 +1,1 @@
+# reg-code-workspace-icon
