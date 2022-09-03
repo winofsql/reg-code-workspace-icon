@@ -1,6 +1,7 @@
 # reg-code-workspace-icon
 
 - ### レジストリエントリ
+    ![image](https://user-images.githubusercontent.com/1501327/188278719-ab799da9-2e45-4390-a5d0-dbb7be40bdc7.png)
     ```reg
     Windows Registry Editor Version 5.00
 
